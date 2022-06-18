@@ -66,7 +66,7 @@ nav ul li a:hover {
     background-color: hsl(179, 100%, 13%);
     color: hsl(179, 100%, 13%);
 }
-.plan-container {
+.main-container {
     display: flex;
     flex-direction: row;
     width: 70%;
@@ -162,7 +162,7 @@ nav ul li a:hover {
 
 /* width 912px - Surface Pro 7*/
 @media (max-width: 912px) {
-    .plan-container {
+    .main-container {
         width: 75%;
         height: 65%;
         margin-bottom: 70px;
@@ -195,7 +195,7 @@ nav ul li a:hover {
 
 /* width 820px - ipad Air*/
 @media (max-width: 820px) {
-    .plan-container {
+    .main-container {
         width: 75%;
         height: 65%;
         margin-bottom: 70px;
@@ -260,7 +260,7 @@ nav ul li a:hover {
 /* width 540px - Surface Duo*/
 @media (max-width: 540px) {
 
-    .plan-container {
+    .main-container {
         display: flex;
         flex-direction: column;
         border-radius: 0;
@@ -300,7 +300,7 @@ nav ul li a:hover {
 /* width 375px - iphone SE (Mobile) */
 @media (max-width: 375px) {
     
-    .plan-container {
+    .main-container {
         display: flex;
         flex-direction: column;
         border-radius: 0;
